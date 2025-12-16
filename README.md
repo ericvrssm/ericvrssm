@@ -1,30 +1,32 @@
 # Olá, eu sou o Eric Veríssimo! 🇧🇷
-### Hi, I'm Eric Veríssimo! 🇺🇸
 
-## 📖 Sobre mim 🇧🇷 / About me  🇺🇸
+## 📖 Sobre mim
 
-- 🧑‍🎓 **Idade / Age**: 17 anos / 17 years old
-- 📚 **Cursando / Currently studying**:  
-  - **3º ano do Ensino Médio com curso profissionalizante em Análise e Desenvolvimento de Sistemas**  
-  - **3rd year of high school with a professional course in Systems Analysis and Development**  
+- 🧑‍🎓 **Idade**: 18anos
+- 📚 **Formação**:  
+  - Técnico em Desenvolvimento de Sistemas.
 
 ---
 
-## 🌟 Habilidades 🇧🇷  /  Skills  🇺🇸
+## 🌟 Habilidades 
 
-- 💻 **Linguagens de programação / marcação / Programming languages / markup**:  
-  - Python, C++, javascript html/css.
-
-- 🛠️ **Ferramentas e Tecnologias / Tools and Technologies**:  
-  - Git/Github, Json, Linux terminal, VsCode 
+- 💻 **Tecnologias**:  
+  - Desenvolvimento Web;
+  - Noções básicas de Banco de dados;
+  - Python;
+  - C++.
+- 🛠️ **Ferramentas**:  
+  - Git/Github
+  - Sistemas operacionais Linux em geral;
+  - Windows 10/11. 
 
 ---
 
-## 🚀 Objetivos 🇧🇷  /  Goals  🇺🇸
+## 🚀 Objetivos
 
-- 🌱 Aprender e contribuir com projetos open source. / Learn and contribute to open source projects.
-- 🎯 Desenvolver soluções que facilitem a vida das pessoas. / Develop solutions that make people’s lives easier.
-- ✨ Construir uma carreira sólida na área de tecnologia.  / Build a solid career in the technology
+- 🌱 Aprender e contribuir com projetos open source.
+- 🎯 Desenvolver soluções que facilitem a vida das pessoas.
+- ✨ Construir uma carreira sólida na área de tecnologia.
 
 ---
 
@@ -32,8 +34,7 @@
 
 - **E-mail**: ericvrssm@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/ericvrssm
-- **GitHub**: https://github.com/NaoeoEric/NaoeoEric 
-
+- **GitHub**: https://github.com/ericvrssm/ericvrssm
 ---
 
-⚡ **Curiosidade 🇧🇷  / Fun fact** 🇺🇸: Eu AMO gatos! / I LOVE cats! 
+⚡ **Curiosidade** : Eu AMO gatos!
